@@ -7,7 +7,7 @@ This code is used to output the linguistic complexity of sequences. These sequen
 ### This repository contains three files: 
 #### 1) a python script which reads in a .txt file of sequences (ATCG) and calculates the linguistic complexity of sequences and outputs information to a csv
 
-Notes
+Notes:
 Input: sequence of ATCG characters
 Output: 
 - k (substring of character sequence)
@@ -15,9 +15,9 @@ Output:
 - possible kmers (all possible k-mer lengths)
 
 #### 2) a python test script which tests various parameters
-Notes
+Notes:
 Parameters include: k, string, actual_result, expected_result
 
 #### 3) a test .txt file to run through the python script
-Notes
+Notes:
 A short example of the type of file to read into code
